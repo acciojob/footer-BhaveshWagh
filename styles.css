@@ -17,11 +17,13 @@ body{
 	justify-content:space-between;
 	flex-wrap:wrap;
 }
-
-i {
-	margin:0px 3px;
-	margin-top:12px;
+.media-icons{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:15px;
 }
+
 .link-boxes {
 	display:flex;
 	justify-content:space-between;
